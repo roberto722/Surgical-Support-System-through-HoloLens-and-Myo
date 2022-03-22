@@ -9,7 +9,7 @@ Il sistema per l'acquisizione e l'elaborazione dei dati del Myo è un sistema __
 # Preview
 <img src="./assets/KidneyViewer_preview.jpg" width="600px">
 
-# Project explanation
+# Brief Project explanation
 <img src="./SlideShow/Diapositiva2.PNG" width="600px">
 <img src="./SlideShow/Diapositiva3.PNG" width="600px">
 <img src="./SlideShow/Diapositiva16.PNG" width="600px">
